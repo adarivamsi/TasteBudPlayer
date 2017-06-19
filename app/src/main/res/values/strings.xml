@@ -35,8 +35,8 @@
     <string name="playlist_recently_played">Recently Played</string>
     <string name="playlist_top_tracks">My Top Tracks</string>
 
-    <string name="timber_source">Report any bugs <u> here </u> </string>
-    <string name="timber_feature_request">Specify any feature request in the Google+ community <u> here </u></string>
+    <string name="tastebudplayer_source">Report any bugs <u> here </u> </string>
+    <string name="tastebudplayer_feature_request">Specify any feature request in the Google+ community <u> here </u></string>
 
     <string name="menu_show_as">View As</string>
     <string name="menu_show_as_entry_list">List</string>
@@ -55,7 +55,7 @@
     <string name="library">Library</string>
     <string name="playlists">Playlists</string>
     <string name="playing_queue">Playing Queue</string>
-    <string name="now_playing">Now Playing</string>
+    <string name="now_playing">Play Now</string>
     <string name="settings">Settings</string>
     <string name="about">About</string>
     <string name="help_and_feedback">Help and Feedback</string>
@@ -64,8 +64,8 @@
     <string name="action_equalizer">Equalizer</string>
     <string name="search_library">Search Library</string>
 
-    <string name="select_theme">Select Theme</string>
-    <string name="choose_theme_throughout">Choose a theme to be used throughout the app.</string>
+    <string name="select_theme">Select TasteBud</string>
+    <string name="choose_theme_throughout">Choose a TasteBud to be used throughout the app.</string>
     <string name="choose_start_page">Choose the start page to be displayed on launch.</string>
     <string name="start_page">Start page</string>
     <string name="artist_in_grid">Artists in Grid</string>
@@ -74,11 +74,12 @@
     <string name="system_animations">System animations</string>
     <string name="toggle_animations">Toggle for Transition animation throughout the app.</string>
     <string name="animations">Animations</string>
-    <string name="now_playing_selector">Choose a now playing screen from 4 different styles.</string>
+    <string name="now_playing_selector">Choose a Play Now screen from 6 different TasteBuds.</string>
     <string name="personalisation">Personalisation</string>
     <string name="other">Other</string>
     <string name="advanced">Advanced</string>
-    <string name="timber_about_opensource">Timber is a open source Music Player developed by Naman Dwivedi.</string>
+    <string name="tastebudplayer_about_opensource">TasteBud Player is a Music Player developed by A V Visual Efx.</string>
+    <string name="tastebudplayer_about_opensource1">Adari Vamsi Charan, Praneeth and Keerthana</string>
     <string name="summary_pause_detach">Toggle for pausing playback when headphone is detached</string>
     <string name="pause_detach">Pause on Detach</string>
     <string name="summary_xposed_trackselector">Requires Xposed and XMediaNotificationTrackSelector Xposed module to be installed. This will provide access to playing queue from the notification bar itself.</string>
@@ -86,7 +87,7 @@
     <string name="currently_selected">Currently Selected</string>
 
     <string name="dark_theme">Dark Theme</string>
-    <string name="dark_theme_summary">Apply a dark theme throughout the app</string>
+    <string name="dark_theme_summary">Apply a dark theme throughout the TasteBud Player</string>
 
     <string name="primary_color">Primary Color</string>
     <string name="primary_color_summary">Change the primary theme color</string>
@@ -102,10 +103,10 @@
 
     <string name="gestures">Gestures</string>
     <string name="switching_tracks_by_gestures">Switching tracks using gestures</string>
-    <string name="widget_standard">Timber standard widget</string>
-    <string name="widget_small">Timber small widget</string>
-    <string name="tap_to_start">Tap to start Timber</string>
-    <string name="widget_white">Timber light widget</string>
+    <string name="widget_standard">TasteBud standard widget</string>
+    <string name="widget_small">TasteBud small widget</string>
+    <string name="tap_to_start">Tap to start TasteBud</string>
+    <string name="widget_white">TasteBud light widget</string>
 
     <string name="count_song"><xliff:g id="count">%d</xliff:g> song</string>
     <string name="count_songs"><xliff:g id="count">%d</xliff:g> songs</string>
@@ -121,7 +122,7 @@
 
 
     <!--do not translate these strings-->
-    <string name="app_name" translatable="false">Timber</string>
+    <string name="app_name" translatable="false">TasteBud</string>
     <string name="combine_two_strings" translatable="false">%1$s | %2$s</string>
     <string name="duration_format" translatable="false"><xliff:g id="hours">%1$s</xliff:g> <xliff:g id="minutes">%2$s</xliff:g></string>
     <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
@@ -140,6 +141,6 @@
     <string name="folders">Folders</string>
 
 
-    <string name="fabric_api_key">praneeth</string> <string name="play_billing_license_key">vamsi</string>
+    <string name="fabric_api_key">avvisualefx</string> <string name="play_billing_license_key">avvisualefx</string>
 
 </resources>
